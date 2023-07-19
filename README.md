@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="ichiban" href="ichiban.css">
+        <title>ichiban-net</title>
+    </head>
 
+    <body>
+        <h1>一番くじ</h1>
+        <a href="https://1kuji.com">一番くじ公式サイト</a>
+    
+
+
+    </body>
+</html>
