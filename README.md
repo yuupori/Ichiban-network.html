@@ -11,6 +11,7 @@
     <body>
         <h1>一番くじ</h1>
         <a href="https://1kuji.com">一番くじ公式サイト</a>
+        <img src="168922431762f1951e24a32af2" alt="堀田ヴェルデモード"
     
 
 
